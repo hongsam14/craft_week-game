@@ -1,4 +1,9 @@
 # Craft_Week_Game
+
+<p align="center">
+<img width="400" src="https://user-images.githubusercontent.com/67721631/177944205-66483eb1-bef9-49b5-882b-717a594644b3.png">
+</p>
+
 ## Overview
 
 <p align='center'>
